@@ -1,0 +1,12 @@
+C:\repo\Exercicio 3 - Celsius e Fahrenheit\obj\Debug\netcoreapp3.1\Exercicio 3 - Celsius e Fahrenheit.AssemblyInfoInputs.cache
+C:\repo\Exercicio 3 - Celsius e Fahrenheit\obj\Debug\netcoreapp3.1\Exercicio 3 - Celsius e Fahrenheit.AssemblyInfo.cs
+C:\repo\Exercicio 3 - Celsius e Fahrenheit\obj\Debug\netcoreapp3.1\Exercicio 3 - Celsius e Fahrenheit.csproj.CoreCompileInputs.cache
+C:\repo\Exercicio 3 - Celsius e Fahrenheit\bin\Debug\netcoreapp3.1\Exercicio 3 - Celsius e Fahrenheit.exe
+C:\repo\Exercicio 3 - Celsius e Fahrenheit\bin\Debug\netcoreapp3.1\Exercicio 3 - Celsius e Fahrenheit.deps.json
+C:\repo\Exercicio 3 - Celsius e Fahrenheit\bin\Debug\netcoreapp3.1\Exercicio 3 - Celsius e Fahrenheit.runtimeconfig.json
+C:\repo\Exercicio 3 - Celsius e Fahrenheit\bin\Debug\netcoreapp3.1\Exercicio 3 - Celsius e Fahrenheit.runtimeconfig.dev.json
+C:\repo\Exercicio 3 - Celsius e Fahrenheit\bin\Debug\netcoreapp3.1\Exercicio 3 - Celsius e Fahrenheit.dll
+C:\repo\Exercicio 3 - Celsius e Fahrenheit\bin\Debug\netcoreapp3.1\Exercicio 3 - Celsius e Fahrenheit.pdb
+C:\repo\Exercicio 3 - Celsius e Fahrenheit\obj\Debug\netcoreapp3.1\Exercicio 3 - Celsius e Fahrenheit.dll
+C:\repo\Exercicio 3 - Celsius e Fahrenheit\obj\Debug\netcoreapp3.1\Exercicio 3 - Celsius e Fahrenheit.pdb
+C:\repo\Exercicio 3 - Celsius e Fahrenheit\obj\Debug\netcoreapp3.1\Exercicio 3 - Celsius e Fahrenheit.genruntimeconfig.cache
